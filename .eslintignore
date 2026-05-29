@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+dist/
+ios/
+android/
+# Protótipos de design (referência somente-leitura, JSX de web — não são código do app)
+docs/
